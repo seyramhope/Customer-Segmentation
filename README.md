@@ -24,6 +24,12 @@ MySQl was used for data exploration. The cleaned data was imported in a comma se
 
 {Data Formating}(![data formart](https://github.com/user-attachments/assets/7690f5a4-70c7-48fa-a022-cb1f639a1249)
 
+{performing Aggregates}(![Aggregate 1](https://github.com/user-attachments/assets/790c9783-9c2c-41ca-8da3-7e854dd23f19)
+
+{querying aggregates}(![aggregat 2 avg - min](https://github.com/user-attachments/assets/d4d11f1c-d472-42a5-a86c-8783d44df103)
+
+{querying kpi max and join}(![aggregate 2 max n joins](https://github.com/user-attachments/assets/314d2417-63a1-4c35-921a-3b4376ab8f67)
+
 
 Export analytical results as CSV for dashboard use.
 
