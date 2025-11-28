@@ -17,3 +17,9 @@ Replaced null values in the 'Work Experience' column with avaerage of 2.6,
 Replaced nul values in the Family Size column with 1 to represent the customer only, 
 Updated null values in Profession column with NA.
 Updated all Columns with appropriate and uniform data type.
+
+# Data Exploration
+MySQl was used for data exploration. The cleaned data was imported in a comma seperated value (csv) format into Microsoft SQL server using the import and export wizard. 
+Perform aggregations, joins
+Perform KPI calculations.
+Export analytical results as CSV for dashboard use.
