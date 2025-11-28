@@ -50,3 +50,29 @@ After creating the measures and going through the data to ensure that all was fi
 
 (<img width="671" height="411" alt="dasgboard1" src="https://github.com/user-attachments/assets/68958372-7a91-4933-ae73-c6967c812149" />
 
+[Customer Segmentation Analysis]
+
+(<img width="676" height="418" alt="dasgboard 2" src="https://github.com/user-attachments/assets/9e67f57a-5b66-4fd0-86c1-6c71127a3bc4" />
+
+[Socioeconomic Analysis]
+
+(<img width="675" height="379" alt="dasgboard 3" src="https://github.com/user-attachments/assets/2f901a4b-44c0-48dd-a373-1aac44516d8a" />
+
+# KEY FINDINGS AND INSIGHTS
+• Average customer age: 43.6 years; Work experience: 2.6 years; Family size: 2.75
+• 61.5% of customers had low spending scores; 14.7% were high spenders
+• Segment A had the most customers (32%), followed by Segment D (29%)
+
+High-Value Segments: Segment C and B contain the highest concentration of customers with high spending scores, graduated professionals like Executives and Lawyers with higher work experience. Married individuals dominate high-value segments, suggesting stability and spending capacity. These groups represent strong purchasing power and brand engagement potential.
+
+Demographic Trends: Segment A skews younger (30-50), while Segment C includes older professionals (60+). Gender is evenly spread across segments, though Segment A has a slight male majority. Education & Profession: Segments D and A have the highest graduate professionals but with the lowest percentage share of high spenders, 11% and 14% respectively. Professionally active roles (Executive and Lawyer) correlate with higher spending(income), higher family sizes and brand loyalty.
+
+Spending Behavior: High spending score is most prevalent in Segments C and B whilst Segment D shows low spending despite varied professions, indicating lower engagement or budget constraints.
+
+# STRATEGIC RECOMMENDATIONS
+The Automobile company should:
+1. Target Segments C & B for premium offerings, loyalty programs, and personalized marketing.
+2. Upskill Segment A with educational content and mid-tier product bundles to boost spending.
+3. Re-engage Segment D through budget-friendly campaigns and value-based messaging and develop loyalty programs for this segment.
+4. Personalize marketing by profession and education level.
+5. Collect income data for improved predictive insights.
