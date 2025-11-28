@@ -10,3 +10,10 @@ Excel and Power Query was used for data cleaning, MySQl was used for exploration
 This dataset is about customers of an automobile company and their purchase parttern. The data contains 10 columns and 2,627 rows. The columns which are CustomerID,	Gender, Marital Status,	Age,	Graduated,	Profession,	Work Experience,	Spending Score,	Family Size and	Segmentation.
 The data was gotten from kaggle
 {Download here}(https://www.kaggle.com/datasets/kaushiksuresh147/customer-segmentation)
+# Data Cleaning
+The data set named 'Train' was imported in a comma seperated value (csv) format into Excel and Power Query, after that the data cleaning process commenced. Kindly follow through to see the steps I took to clean the data.
+The first thing I had to do was to standardize the date format.
+Replaced null values in the 'Work Experience' column with avaerage of 2.6, 
+Replaced nul values in the Family Size column with 1 to represent the customer only, 
+Updated null values in Profession column with NA.
+Updated all Columns with appropriate and uniform data type.
