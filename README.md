@@ -24,9 +24,10 @@ MySQl was used for data exploration. The cleaned data was imported in a comma se
 
 {Data Formating}(![data formart](https://github.com/user-attachments/assets/7690f5a4-70c7-48fa-a022-cb1f639a1249)
 
-{performing Aggregates}(![Aggregate 1](https://github.com/user-attachments/assets/790c9783-9c2c-41ca-8da3-7e854dd23f19)
+{performing Aggregates}(![Aggregate 1](<img width="634" height="365" alt="Picture4" src="https://github.com/user-attachments/assets/44876bd5-fe79-4662-a2fb-3d33afa8e92c" />
 
-{querying aggregates}(![aggregat 2 avg - min](https://github.com/user-attachments/assets/d4d11f1c-d472-42a5-a86c-8783d44df103)
+{querying aggregates}(
+<img width="641" height="441" alt="Picture5" src="https://github.com/user-attachments/assets/f5048726-f96f-42dc-833c-ce595b26dba8" />
 
 {querying kpi max and join}(
 <img width="677" height="439" alt="Picture6" src="https://github.com/user-attachments/assets/6cc88ab0-87b2-46fc-81fa-248c9bfbfe55" />
