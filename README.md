@@ -32,6 +32,8 @@ MySQl was used for data exploration. The cleaned data was imported in a comma se
 {querying kpi max and join}(
 <img width="677" height="439" alt="Picture6" src="https://github.com/user-attachments/assets/6cc88ab0-87b2-46fc-81fa-248c9bfbfe55" />
 
-## Next was to export analytical results as CSV for dashboard use.
+## Next I exported analytical results as CSV for dashboard use.
 
+# Data Visualization
+I used Power Bi for data visualization.
 
