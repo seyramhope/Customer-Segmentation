@@ -58,7 +58,7 @@ After creating the measures and going through the data to ensure that all was fi
 
 (<img width="675" height="379" alt="dasgboard 3" src="https://github.com/user-attachments/assets/2f901a4b-44c0-48dd-a373-1aac44516d8a" />
 
-# KEY FINDINGS AND INSIGHTS
+# Key Kindings and Insights
 • Average customer age: 43.6 years; Work experience: 2.6 years; Family size: 2.75
 • 61.5% of customers had low spending scores; 14.7% were high spenders
 • Segment A had the most customers (32%), followed by Segment D (29%)
@@ -69,7 +69,7 @@ Demographic Trends: Segment A skews younger (30-50), while Segment C includes ol
 
 Spending Behavior: High spending score is most prevalent in Segments C and B whilst Segment D shows low spending despite varied professions, indicating lower engagement or budget constraints.
 
-# STRATEGIC RECOMMENDATIONS
+# Strategic Recommendations
 The Automobile company should:
 1. Target Segments C & B for premium offerings, loyalty programs, and personalized marketing.
 2. Upskill Segment A with educational content and mid-tier product bundles to boost spending.
