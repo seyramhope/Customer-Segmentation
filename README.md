@@ -39,5 +39,6 @@ I used Power Bi for data visualization.
 After creating the measures and going through the data to ensure that all was fine. I proceeded to the report tab of Power BI to visualize the data
 
 [Customer Demographics]
+
 (<img width="671" height="411" alt="dasgboard1" src="https://github.com/user-attachments/assets/68958372-7a91-4933-ae73-c6967c812149" />
 
